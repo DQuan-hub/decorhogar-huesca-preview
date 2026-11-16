@@ -1,0 +1,30 @@
+2:"$Sreact.fragment"
+3:"/decorhogar-huesca-preview/_next/static/chunks/1ua2kfq9s-me6.js"
+4:"/decorhogar-huesca-preview/_next/static/chunks/1ue6o-pz2q6__.js"
+5:"/decorhogar-huesca-preview/_next/static/chunks/109w112jcqkom.js"
+6:"/decorhogar-huesca-preview/_next/static/chunks/31gnm_ntk6vwf.js"
+7:I[39756,["$3","$4","$5","$6"],"default"]
+8:I[37457,["$3","$4","$5","$6"],"default"]
+d:I[71496,["$3","$4","$5","$6"],"SplitTextReveal"]
+e:I[71496,["$3","$4","$5","$6"],"PillButton"]
+f:I[97367,["$3","$4","$5","$6"],"OutletBoundary"]
+10:"$Sreact.suspense"
+13:"ViewportBoundary"
+14:I[97367,["$3","$4","$5","$6"],"$13"]
+15:"MetadataBoundary"
+16:I[97367,["$3","$4","$5","$6"],"$15"]
+17:I[27201,["$3","$4","$5","$6"],"IconMark"]
+a:X
+a:C
+b:X
+c:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$2","c",{"children":[["$","section",null,{"className":"flex-1 flex items-center justify-center pt-32 pb-24 px-5 sm:px-8","children":["$","div",null,{"className":"mx-auto max-w-2xl text-center space-y-6","children":[["$","p",null,{"className":"editorial-eyebrow","children":"Error 404 · Página no encontrada"}],["$","$Ld",null,{"text":"Este espacio todavía está en proyecto","as":"h1","immediate":true,"className":"fluid-section-title text-[#181817]"}],["$","p",null,{"className":"text-base text-[#6B6862] leading-relaxed","children":"La ruta que buscas no existe o ha cambiado de ubicación. Puedes explorar nuestras reformas realizadas en Huesca o volver al inicio."}],["$","div",null,{"className":"flex flex-wrap items-center justify-center gap-3 pt-2","children":[["$","$Le",null,{"href":"/","label":"Volver al inicio","variant":"dark","size":"md"}],["$","$Le",null,{"href":"/proyectos","label":"Ver proyectos","variant":"outline","size":"md"}]]}]]}]}],null,["$","$Lf",null,{"children":["$","$10",null,{"name":"Next.MetadataOutlet","children":"$@11"}]}]]}],"p":"$@12","v":null,"s":"$b"}}]]
+1:[["children",{"s":"/_not-found","h":64,"d":{"r":["$","$2","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","template":["$","$L8",null,{}]}]]}],"p":"$@9","v":"$a","s":"$b"},"c":"$Qc"}]]
+0:{"t":{"t":{"s":"","h":16,"c":"$Q1"},"h":{"r":["$","$2","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L14",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L16",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$10",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"DecorHogar Reforma | Reformas Integrales, Baños y Cocinas en Huesca"}],["$","meta","1",{"name":"description","content":"Empresa de reformas integrales en Huesca. Especialistas en cocinas, baños, cambio de bañera por ducha, tejados y fachadas. Diseño 3D y financiación sin intereses."}],["$","meta","2",{"name":"keywords","content":"reformas integrales Huesca,reformas de cocinas Huesca,reformas de baños Huesca,cambio de bañera por plato de ducha Huesca,fachadas y tejados Huesca,DecorHogar Reforma,reformas sin intereses Huesca"}],["$","link","3",{"rel":"canonical","href":"https://decorhogarreforma.com/"}],["$","meta","4",{"property":"og:title","content":"DecorHogar Reforma | Reformas Integrales, Baños y Cocinas en Huesca"}],["$","meta","5",{"property":"og:description","content":"Empresa de reformas integrales en Huesca. Especialistas en cocinas, baños, cambio de bañera por ducha, tejados y fachadas. Diseño 3D y financiación sin intereses."}],["$","meta","6",{"property":"og:url","content":"https://decorhogarreforma.com/"}],["$","meta","7",{"property":"og:site_name","content":"DecorHogar Reforma Huesca"}],["$","meta","8",{"property":"og:locale","content":"es_ES"}],["$","meta","9",{"property":"og:image","content":"https://decorhogarreforma.com/images/oficial/salon-reforma-integral.jpg"}],["$","meta","10",{"property":"og:image:width","content":"1920"}],["$","meta","11",{"property":"og:image:height","content":"1280"}],["$","meta","12",{"property":"og:image:alt","content":"DecorHogar Reforma Huesca - Reformas Integrales e Interiorismo"}],["$","meta","13",{"property":"og:type","content":"website"}],["$","meta","14",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","15",{"name":"twitter:title","content":"DecorHogar Reforma | Reformas Integrales, Baños y Cocinas en Huesca"}],["$","meta","16",{"name":"twitter:description","content":"Empresa de reformas integrales en Huesca. Especialistas en cocinas, baños, cambio de bañera por ducha, tejados y fachadas. Diseño 3D y financiación sin intereses."}],["$","meta","17",{"name":"twitter:image","content":"https://decorhogarreforma.com/images/oficial/salon-reforma-integral.jpg"}],["$","meta","18",{"name":"twitter:image:alt","content":"DecorHogar Reforma Huesca - Reformas Integrales e Interiorismo"}],["$","meta","19",{"name":"twitter:image:width","content":"1920"}],["$","meta","20",{"name":"twitter:image:height","content":"1280"}],["$","link","21",{"rel":"icon","href":"/decorhogar-huesca-preview/favicon.ico?favicon.117ezoe8m31dk.ico","sizes":"48x48","type":"image/x-icon"}],["$","link","22",{"rel":"icon","href":"/decorhogar-huesca-preview/icon.svg?icon.01-6shgr9uqz1.svg","sizes":"any","type":"image/svg+xml"}],["$","$L17","23",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@18","v":null,"s":"$b"}},"a":"$@19","u":"$@1a","b":"wmn08LUI-QGSnF50MRE6g"}
+11:null
+1a:true
+b:300
+b:C
+19:0
+9:"$undefined"
+18:"$undefined"
+12:"$undefined"
